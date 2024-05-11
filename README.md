@@ -1,0 +1,1 @@
+# Projeto_IA_Alura_gemini
